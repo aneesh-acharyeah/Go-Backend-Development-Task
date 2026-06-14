@@ -1,6 +1,8 @@
 .env
 .env.*
 !.env.example
+LOCAL_TESTING_GUIDE.md
+INTERVIEW_DEFENSE_GUIDE.md
 
 bin/
 dist/
